@@ -1,0 +1,20 @@
+/*This allows us to edit the dimensions of the board */
+.slot 
+{
+  border-radius: 20%;
+  width: 90px;
+  height: 90px;
+  background-color: white;
+  color: black;
+  margin: 1px;
+}
+
+/*This makes the colour of player 1 red and player 2 yellow */
+.player1 
+{
+  background-color: red;
+}
+.player2 
+{
+  background-color: yellow;
+}
