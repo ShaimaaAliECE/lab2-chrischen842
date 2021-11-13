@@ -75,7 +75,7 @@ const Game = () =>
             ? "Result: Player " + counter + " wins!"
             : counter
             ? "Result: Tie"
-            : "Player " + player + "'s Turn"}
+            : "Player " + player}
         </h1>
       </div>
       <div style={connectFour.gameBoard}>
